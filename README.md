@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm malek</h1>
 <h3 align="center">A frontend developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Bright project**
 
 - 🌱 I’m currently learning **Front-end development**
 
 - 👨‍💻 All of my projects are available at [https://malekbentaher.netlify.app/](https://malekbentaher.netlify.app/)
 
-- 📫 How to reach me **malekbentaher3@gmail.com**
+- 📫 How to reach me **malek.bentaher@caustaza.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
