@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://malekbentaher.netlify.app/](https://malekbentaher.netlify.app/)
 
-- 📫 How to reach me **malek.bentaher@caustaza.com**
+- 📫 How to reach me **malekbentaher3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
